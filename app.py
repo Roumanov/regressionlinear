@@ -5,7 +5,7 @@ from models import Result
 from db import db, app
 
 import os
-import requests
+#import requests
 import json
 
 #app = Flask(__name__)
