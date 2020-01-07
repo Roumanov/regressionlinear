@@ -4,9 +4,6 @@ from flask_sqlalchemy import SQLAlchemy
 from models import Result
 from db import db, app
 
-import os
-#import requests
-import json
 
 #app = Flask(__name__)
 
