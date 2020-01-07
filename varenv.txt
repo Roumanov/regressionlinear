@@ -1,0 +1,5 @@
+export DBNAME="postgres2"
+export DBUSER="postgres"
+export DBHOST="localhost"
+export DBPASS="290477St"
+export APP_SETTINGS="config.ProductionConfig"

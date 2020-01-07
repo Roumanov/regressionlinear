@@ -1,0 +1,31 @@
+#container_1 {
+        height: 3598px;
+        width: 5397px;
+        object-fit: contain;
+        background-image: url('/static/image/coins.jpg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 50% 0%;
+    }
+
+#container_2 {
+        height: 3744px;
+        width: 5616px;
+        object-fit: contain;
+        background-image: url('/static/image/washs.jpg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 50% 0%;
+    }
+
+
+#format_predicted
+{
+  font-size: 300%;
+  font-weight: bold;
+  color: black;
+  "text-indent: 50px;
+  "text-align: center;
+  "text-align-last: justify;
+  "background-color: blue;
+}
